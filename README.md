@@ -27,3 +27,7 @@
 		
 		cd /path/to/YourwalletLITE
 		python wallet.py
+
+## Donation Support
+
+https://github.com/FndNur1Labs/CryptonoteEvo
